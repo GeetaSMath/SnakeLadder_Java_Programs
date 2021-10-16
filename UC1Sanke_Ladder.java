@@ -1,6 +1,7 @@
+
 import java.util.Random;
 
-public class  UC1Sanke_Ladder {
+public class UC1Sanke_Ladder {
 
     public static void main(String[] args) {
 	    int pos = 0;
